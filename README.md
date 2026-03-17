@@ -1,6 +1,6 @@
 # AQI project
 
-## Goal: To estimate the AQI(PM 2.5) of New Delhi (Safdarjung) using the local climate data, on a daily basis.
+## Goal: To estimate the AQI(PM 2.5) of New Delhi (Safdarjung) using the local climate data, on a day basis.
 
 ##       Local climate data: 
 
