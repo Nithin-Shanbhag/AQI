@@ -15,12 +15,12 @@ V	Average wind speed (km/h)
 VM	Maximum sustained wind speed (km/h)
 ```
 
-### Software and tool requirement
+## Software and tool requirement
 1. [Github Account](https://github.com)
 2. [VS Code IDE](https://code.visualstudio.com/)
 3. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
-# Step 1:
+### Step 1:
 
 Create a new environment for the project
 ```
@@ -32,7 +32,7 @@ Activate it
 conda activate venv/
 ```
 
-# Step 2:
+### Step 2:
 
 Data Collection Part 1: 
 ```
@@ -43,7 +43,7 @@ Refer file:
 Code - [html_script.py](html_script.py)
 Downloaded files - [Data/html_data](Data/html_data)
 
-# Step 3:
+### Step 3:
 
 Data Collection Part 2: 
 ```
@@ -55,7 +55,7 @@ Refer file:
 Code - [plot_AQI.py](plot_AQI.py)
 Downloaded files - [Data/AQI](Data/AQI)
 
-# Step 4:
+### Step 4:
 
 Data Collection Part 3: 
 ```
@@ -66,7 +66,7 @@ Refer file:
 Code - [extract_combine.py](extract_combine.py)
 Downloaded files - [Data/real_data](Data/real_data)
 
-# Step 4:
+### Step 5:
 
 Apply ML algorithms:
 ```
