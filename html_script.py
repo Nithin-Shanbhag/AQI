@@ -8,7 +8,15 @@ import requests
 ## It allows you to send HTTP requests and handle responses easily.
 import sys
 
-
+'''
+for each year, for each month, provide the url of html page
+get url content using requests lib
+convert content to utf8 format
+if year dir do not exists, make it
+within dir, open(create) the month file in write mode
+write utf8 url content in it
+print the progress of data collection process on year loop, rather than printing at the end of the whole process
+'''
 
 def retreive_html():
     for year in range(2013,2019):

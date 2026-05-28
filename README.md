@@ -106,3 +106,14 @@ Refer file:
 [RandomForestRegressor](RandomForestRegressor.ipynb)
 [xgboostregressor](xgboostregressor.ipynb)
 [ANN](ANN.ipynb)
+
+```
+RMSE scores of models:
+- XGBoost Regressor - RMSE = 41.25 (Best)
+- Linear Regression - RMSE = 55.5
+- Lasso Regression - RMSE = 55.6
+- Decision Tree Regressor - RMSE = 52.5
+- KNN Regressor - RMSE = 59.7
+- Random Forest Regressor - RMSE = 44.4
+- ANN-Artificial Neural Network - RMSE = 57.8
+```

@@ -38,7 +38,7 @@ def met_data(month,year):
                 ## Now you have a list of all the text contents
                 ## (Feature contents) for a year.
                 
-    ## getting number of rows
+    ## getting number of rows (no of days in month)
     rows = len(tempD) / 15
     
     
@@ -132,7 +132,7 @@ if __name__ == "__main__":
     
     
     
-    ## fetch the list converted data from csv files for each year 
+    ## fetch the data converted to list from csv files for each year 
     ## using data_combine function defined above.    
     data_2013 = data_combine(2013, 600)
     data_2014 = data_combine(2014, 600)

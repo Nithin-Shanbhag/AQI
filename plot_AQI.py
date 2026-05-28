@@ -37,7 +37,7 @@ def avg_data_2013():
                     
         ## Calculate avg for each day
         avg = add_var/24
-        temp_i=temp_i+1
+        temp_i=temp_i+1   ## counts no of days processed
         
         average.append(avg)
         ## Now we have the list 'average' which contains 
