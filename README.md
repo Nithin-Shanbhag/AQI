@@ -36,7 +36,7 @@ conda activate venv/
 
 Data Collection Part 1: 
 ```
-Downloading HTML pages containing climate data(independent features) for year 2013-2018.
+Downloading HTML pages containing climate data(independent features) for each month of year 2013-2018.
 ```
 
 Refer file: 
